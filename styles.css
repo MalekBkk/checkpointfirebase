@@ -1,0 +1,54 @@
+body{
+    background-color: rgba(243, 151, 171, 0.938);
+ 
+ }
+
+ .field {
+    align-items: center;
+    vertical-align: center ;
+    padding-left: 1cm;
+    padding: 1.75cm;
+    padding-top: 1cm;
+    padding-bottom: 1cm;
+    border: 1px solid rgba(233, 146, 115, 0.938);
+    border-radius: 10px;
+}
+
+.formulaire {
+    padding-left: 0;
+
+}
+#subsc {
+    margin-left: 9cm;
+    font-size: 19pt;
+    font-weight: bold;
+}
+label {
+    color: purple;
+}
+
+input[type=submit] {
+    width:100px;
+    margin-left:5px;
+    box-shadow:1px 1px 1px rgba(44, 23, 34, 0.582);
+    cursor:pointer;
+    background-image: linear-gradient( to top , rgba(88, 18, 106, 0.589), rgba(247, 211, 235, 0.589) );
+    }
+  
+input{
+        background-color:rgba(218, 125, 161, 0.774);
+        padding:3px;
+        border:1px solid #F5C5C5;
+        border-radius:5px;
+        width:200px;
+        box-shadow:1px 1px 2px #C0C0C0 inset;
+        width: 100%
+        }
+.subs {
+    padding-top: 5cm;
+    padding-left: 10cm;
+    padding-right: 10cm;
+    padding-bottom: 2cm;
+  
+  
+}
